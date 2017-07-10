@@ -1,5 +1,2 @@
 # c7bh_proj
-test project
-testing commit
-another test
-test 3
+DB > c/Users/USERID/data/db
